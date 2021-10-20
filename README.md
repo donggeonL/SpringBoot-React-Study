@@ -5,3 +5,4 @@
 > bootstrap 설치 == npm install bootstrap --save <br>
 > axios 설치 == npm install axios --save <br>
 > 리액트 라우터 설치 == npm install react-router-dom --save <br>
+> 기타 등등 설치
