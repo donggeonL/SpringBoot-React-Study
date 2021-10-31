@@ -6,3 +6,8 @@
 > axios 설치 == npm install axios --save <br>
 > 리액트 라우터 설치 == npm install react-router-dom --save <br>
 > 기타 등등 설치
+
+# Spring boot 설정
+> gradle
+> java version : 11
+> jar
