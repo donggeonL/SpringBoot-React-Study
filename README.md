@@ -8,6 +8,7 @@
 > 기타 등등 설치
 
 # Spring boot 설정
-> gradle
-> java version : 11
-> jar
+> gradle <br>
+> java version : 11 <br>
+> jar <br>
+> dependency : ~
