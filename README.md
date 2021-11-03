@@ -12,3 +12,7 @@
 > java version : 11 <br>
 > jar <br>
 > dependency : ~
+
+
+# 연동시 CORS 문제
+> Spring boot 에서 @CrossOrigin 애노테이션을 사용하여 문제를 해결
