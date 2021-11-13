@@ -19,10 +19,10 @@
 
 # FileUpload 문제
 >         return axios({
-            url: PRODUCT_BASE_REST_API_URL,
-            method: 'post',
-            data: product,
-            headers: {
-                'content-type': 'multipart/form-data'
-            }
-        })
+>           url: PRODUCT_BASE_REST_API_URL,
+>           method: 'post',
+>           data: product,
+>           headers: {
+>               'content-type': 'multipart/form-data'
+>           }
+>       })
