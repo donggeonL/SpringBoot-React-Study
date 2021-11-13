@@ -17,7 +17,7 @@
 # 연동시 CORS 문제 
 > Spring boot 에서 @CrossOrigin 애노테이션을 사용하여 문제를 해결  <br>
 > 
->         @CrossOrigin(origins = "http://localhost:10001")
+>     @CrossOrigin(origins = "http://localhost:10001")
 
 # FileUpload 문제
 >         return axios({
