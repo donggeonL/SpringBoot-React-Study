@@ -18,4 +18,11 @@
 > Spring boot 에서 @CrossOrigin 애노테이션을 사용하여 문제를 해결
 
 # FileUpload 문제
-> type : multipartfile
+>         return axios({
+            url: PRODUCT_BASE_REST_API_URL,
+            method: 'post',
+            data: product,
+            headers: {
+                'content-type': 'multipart/form-data'
+            }
+        })
