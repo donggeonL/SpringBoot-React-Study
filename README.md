@@ -28,3 +28,12 @@
 >               'content-type': 'multipart/form-data'
 >           }
 >       })
+
+# 완전히 가운데로 사진 정렬 시키기
+>         .target{
+>           position: absolute;
+>           top: 50%;
+>           left: 50%;
+>           /*완전 가운데로 주는 방법 translate 사용*/
+>           transform: translate(-50%, -50%);
+>       }
