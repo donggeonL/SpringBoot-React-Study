@@ -16,18 +16,22 @@
 
 # 연동시 CORS 문제 
 > Spring boot 에서 @CrossOrigin 애노테이션을 사용하여 문제를 해결  <br>
-> 
->     @CrossOrigin(origins = "http://localhost:10001")
+
+``` java
+@CrossOrigin(origins = "http://localhost:10001")
+```
 
 # FileUpload 문제
->         return axios({
->           url: PRODUCT_BASE_REST_API_URL,
->           method: 'post',
->           data: product,
->           headers: {
->               'content-type': 'multipart/form-data'
->           }
->       })
+``` java
+         return axios({
+           url: PRODUCT_BASE_REST_API_URL,
+           method: 'post',
+           data: product,
+           headers: {
+               'content-type': 'multipart/form-data'
+           }
+       })
+```
 
 # 완전히 가운데로 사진 정렬 시키기
 >         .target{
