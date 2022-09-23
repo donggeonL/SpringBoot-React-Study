@@ -1,8 +1,8 @@
 # SpringBoot-React-Study
 
 # React 설정
-> vscode 설치
-> node.js 설치 (nmp 설치 됨)
+> vscode 설치 <br>
+> node.js 설치 (nmp 설치 됨) <br>
 > npm create-react-app board-app == 리액트 설치 및 board-app 폴더를 생성 <br>
 > bootstrap 설치 == npm install bootstrap --save <br>
 > axios 설치 == npm install axios --save <br>
